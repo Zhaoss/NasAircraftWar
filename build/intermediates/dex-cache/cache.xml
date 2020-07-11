@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/zhaoshuang/Documents/NasAircraftWar/libnebulas/build/intermediates/intermediate-jars/release/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="608a4d91673f48100ce1574d9fb325595efde2de">
+        <dex dex="/Users/zhaoshuang/Documents/NasAircraftWar/app/build/intermediates/transforms/preDex/release/23.jar" />
+    </item>
+
+</items>

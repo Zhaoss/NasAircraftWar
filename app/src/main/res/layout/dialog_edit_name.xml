@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp">
+
+    <EditText
+        android:id="@+id/et_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColorHint="#aaaaaa"
+        android:layout_marginBottom="10dp"
+        android:textColor="#313133"
+        android:textSize="16sp"
+        android:hint="输入名字, 保存战绩" />
+    <TextView
+        android:id="@+id/tv_cancel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/dp10"
+        android:layout_below="@id/et_name"
+        android:textSize="18sp"
+        android:text="取消"/>
+    <TextView
+        android:id="@+id/tv_confirm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/et_name"
+        android:layout_alignParentRight="true"
+        android:padding="@dimen/dp10"
+        android:textSize="18sp"
+        android:textColor="#6ACFF4"
+        android:text="确定"/>
+
+
+</RelativeLayout>
