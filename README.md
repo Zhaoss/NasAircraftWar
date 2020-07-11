@@ -3,4 +3,3 @@
 
 ![](https://github.com/Zhaoss/NasAircraftWar/blob/master/img1.png)
 ![](https://github.com/Zhaoss/NasAircraftWar/blob/master/img2.png)
-![](https://github.com/Zhaoss/NasAircraftWar/blob/master/img3.png)
